@@ -1,0 +1,11 @@
+ Le volume dans le lecteur C s'appelle Windows
+ Le num‚ro de s‚rie du volume est D4AE-D503
+
+ R‚pertoire de C:\ateliers\app
+
+13/03/2024  15:21    <DIR>          .
+13/03/2024  15:11    <DIR>          ..
+13/03/2024  15:21               360 f1.txt
+13/03/2024  15:21                 0 f2.txt
+               2 fichier(s)              360 octets
+               2 R‚p(s)  22.199.169.024 octets libres
